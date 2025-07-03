@@ -1,16 +1,17 @@
 # Brain-Tumor-Classifier
 
-Constructed a classification model using machine learning to classify if a brain MRI scan shows a brain tumor based on the summary statistics computed from the scans.
+In this analysis project, given a MRI scan of a human brain, I attempted to use the metrics pulled from the scans to construct a machine learning model to predict if a scan shows signs of a tumor.
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
+- [Overview](#overview)
+- [Dataset & Preprocessing](#dataset_and_preprocessing)
 - [Features](#features)
-- [Modeling & Results](#modeling--results)
-- [Explainability (SHAP)](#explainability-shap)
-- [How to Run](#how-to-run)
-- [Docker Instructions](#docker-instructions)
-- [Directory Structure](#directory-structure)
+- [Modeling](#modeling)
+- [Results](#results)
+- [Docker](#docker)
 - [Limitations](#limitations)
 - [License](#license)
 
+## License
+
+I license this project under the MIT License
