@@ -62,6 +62,7 @@ A docker file is included for containerization of both notebooks and the dataset
 
 - **1)** *docker build -t brain-tumor-app .*
 - **2)** *docker run -p 8888:8888 brain-tumor-app*
+- **3)** paste this url in the search bar of your browser: *http://localhost:8888*
 
 ## Limitations
 
