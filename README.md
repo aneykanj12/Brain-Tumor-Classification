@@ -60,9 +60,9 @@ After testing the combinations with the 4 models, I reevaluated and applied a ra
 
 A docker file is included for containerization of both notebooks and the datasets. In a termianl run these command line arguements in order:
 
-- **1)** *docker build -t brain-tumor-app .*
-- **2)** *docker run -p 8888:8888 brain-tumor-app*
-- **3)** paste this url in the search bar of your browser: *http://localhost:8888*
+**1)** *docker build -t brain-tumor-app .*
+**2)** *docker run -p 8888:8888 brain-tumor-app*
+**3)** paste this url in the search bar of your browser: *http://localhost:8888*
 
 ## Limitations
 
